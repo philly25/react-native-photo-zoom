@@ -32,6 +32,9 @@
     "react": "*",
     "react-native": "*"
   },
+  "peerDependencies": {
+    "react-native": ">=0.63.3"
+  },
   "devDependencies": {
     "prop-types": "*"
   }
